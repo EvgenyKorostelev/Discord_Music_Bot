@@ -1,10 +1,10 @@
-# Bot for playing music from Youtube
+# Бот для проигрывания музыки с Youtube
 
-## main.py - contains the main program
-## music_cog.py - contains functions and commands for playing music
-## help_cog.py - contains the help function and command to call the description
+## main.py — содержит основную программу
+## music_cog.py — содержит функции и команды для воспроизведения музыки
+## help_cog.py — содержит функцию справки и команду для вызова описания
 
-**Libraries used and other details**
+**Используемые библиотеки и другие сведения**
 * ```pip install PyNaCl```
 * ```pip install discord.py[voice]```
 * ```pip install youtube-dl```
